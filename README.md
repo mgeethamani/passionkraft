@@ -6,7 +6,7 @@
  ## Passion (emotion), a very strong feeling about a person or thing ; Passions (philosophy), emotional states as used in philosophical discussions.
  
 # Azure Technologies Used:
- ## Static Webapp,Healthbot
+ ## Static Webapp, Healthbot
 
 # Webstack used:
 ## Html, Css,Javascript.

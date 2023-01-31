@@ -6,10 +6,10 @@
  ## Passion (emotion), a very strong feeling about a person or thing ; Passions (philosophy), emotional states as used in philosophical discussions.
  
 # Azure Technologies Used:
- ## Static Webapp, ## Healthbot
+ ## Static Webapp,Healthbot
 
 # Webstack used:
-## Html, ## Css, ## Javascript.
+## Html, Css,Javascript.
 
 # Project Demo urls:
 ## Azure project Link: https://salmon-meadow-0c5d06010.2.azurestaticapps.net
@@ -39,11 +39,6 @@
 
 ## Azure passion kraft(healthbot) Tenant page:
 ![bot tenant page](https://user-images.githubusercontent.com/124038445/215743579-feb265a9-d2f3-4694-91ae-63a0b2bde67f.png)
-
-
-
-## Azure passion kraft(healthbot) secret key:
-![passionkraft bot page](https://user-images.githubusercontent.com/124038445/215743604-b061ce3a-ab98-4d55-b683-bdbf2f741a77.png)
 
 
 # Project Screenshots:

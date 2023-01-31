@@ -6,13 +6,10 @@
  ## Passion (emotion), a very strong feeling about a person or thing ; Passions (philosophy), emotional states as used in philosophical discussions.
  
 # Azure Technologies Used:
- ## Static Webapp,
- ## Healthbot
+ ## Static Webapp, ## Healthbot
 
 # Webstack used:
-## Html,
-## Css,
-## Javascript.
+## Html, ## Css, ## Javascript.
 
 # Project Demo urls:
 ## Azure project Link: https://salmon-meadow-0c5d06010.2.azurestaticapps.net
@@ -49,16 +46,29 @@
 ![passionkraft bot page](https://user-images.githubusercontent.com/124038445/215743604-b061ce3a-ab98-4d55-b683-bdbf2f741a77.png)
 
 
-
-
 # Project Screenshots:
 ## Home:
+![homepage](https://user-images.githubusercontent.com/124038445/215744528-007cbbb9-68ff-4978-aabb-942e7c946fcc.png)
+
 
 ## about us:
+![about](https://user-images.githubusercontent.com/124038445/215744558-a99a8ff1-b4c6-4c9d-8696-6c268e3511b3.png)
+
 
 ## Contact us:
+![contactus](https://user-images.githubusercontent.com/124038445/215744583-5ad8ef26-c851-4801-a3ae-19f9a93cdad1.png)
+
 
 ## services:
+![services](https://user-images.githubusercontent.com/124038445/215744592-aa59200d-c95f-4c45-9195-f772d18cd47d.png)
 
-## passionkraftbot page:
+
+## passionkraftbot functionality page:
+![b1](https://user-images.githubusercontent.com/124038445/215744608-447a9149-b12a-4ac7-86ec-4eaf22116c66.png)
+![b2](https://user-images.githubusercontent.com/124038445/215744631-60773f35-7831-490e-8ecd-d08d7a21d5cf.png)
+![b3](https://user-images.githubusercontent.com/124038445/215744649-becbdfde-2e6d-4caf-8afa-fe7fdfe3adbd.png)
+![b4](https://user-images.githubusercontent.com/124038445/215744676-ebc3a65a-b57f-4e84-a15c-50eb1b5cea9c.png)
+![b5](https://user-images.githubusercontent.com/124038445/215744698-45306ded-8521-4039-a0bc-bf65a1d36e01.png)
+
+
 
